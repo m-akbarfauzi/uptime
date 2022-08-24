@@ -4,19 +4,19 @@
     "url": "https://tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/tasikmalayakota.go.id",
     "slug": "tasikmalaya-kota",
-    "status": "down",
-    "uptime": "60.67%",
-    "uptimeDay": "60.67%",
-    "uptimeWeek": "60.67%",
-    "uptimeMonth": "60.67%",
-    "uptimeYear": "60.67%",
-    "time": 906,
-    "timeDay": 906,
-    "timeWeek": 906,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "51.14%",
+    "uptimeDay": "51.14%",
+    "uptimeWeek": "51.14%",
+    "uptimeMonth": "51.14%",
+    "uptimeYear": "51.14%",
+    "time": 1032,
+    "timeDay": 1032,
+    "timeWeek": 1032,
+    "timeMonth": 1032,
+    "timeYear": 1032,
     "dailyMinutesDown": {
-      "2022-08-24": 88
+      "2022-08-24": 130
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://portal.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/portal.tasikmalayakota.go.id",
     "slug": "portal",
-    "status": "down",
-    "uptime": "90.88%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "90.88%",
-    "time": 1635,
-    "timeDay": 1635,
-    "timeWeek": 1635,
-    "timeMonth": 1635,
-    "timeYear": 1635,
+    "status": "up",
+    "uptime": "76.46%",
+    "uptimeDay": "76.46%",
+    "uptimeWeek": "76.46%",
+    "uptimeMonth": "76.46%",
+    "uptimeYear": "76.46%",
+    "time": 1657,
+    "timeDay": 1657,
+    "timeWeek": 1657,
+    "timeMonth": 1657,
+    "timeYear": 1657,
     "dailyMinutesDown": {
-      "2022-08-24": 20
+      "2022-08-24": 62
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://diskominfo.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/diskominfo.tasikmalayakota.go.id",
     "slug": "diskominfo",
-    "status": "down",
-    "uptime": "91.29%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "91.29%",
-    "uptimeMonth": "91.29%",
-    "uptimeYear": "91.29%",
-    "time": 4427,
-    "timeDay": 4427,
-    "timeWeek": 4427,
-    "timeMonth": 4427,
-    "timeYear": 4427,
+    "status": "up",
+    "uptime": "76.75%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "76.75%",
+    "uptimeMonth": "76.75%",
+    "uptimeYear": "76.75%",
+    "time": 4493,
+    "timeDay": 4493,
+    "timeWeek": 4493,
+    "timeMonth": 4493,
+    "timeYear": 4493,
     "dailyMinutesDown": {
-      "2022-08-24": 20
+      "2022-08-24": 62
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/smartkelurahan.tasikmalayakota.go.id",
     "slug": "smart-kelurahan",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-24": 183
+      "2022-08-24": 226
     }
   }
 ]
