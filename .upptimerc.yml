@@ -9,18 +9,40 @@ sites:
   - name: Diskominfo
     url: https://diskominfo.tasikmalayakota.go.id
   - name: SmartKelurahan
-    url: https://smartkelurahan.tasikmalayakota.go.id
+    url: https://beta.tasikmalayakota.go.id
+  - name: Andimas
+    url: http://andimas.tasikmalayakota.go.id
+  - name: Arsip Dinamis
+    url: http://arsipdinamis.tasikmalayakota.go.id
+  - name: ATCS
+    url: http://atcs.tasikmalayakota.go.id
+  - name: Ayo Belajar
+    url: http://ayobelajar.tasikmalayakota.go.id
+  - name: Website Profile Bappelitbangda
+    url: http://bappelitbangda.tasikmalayakota.go.id
+  - name: Bisma
+    url: http://bisma.tasikmalayakota.go.id
+  - name: Website Profile BKPSDM
+    url: http://bkppd.tasikmalayakota.go.id
+  - name: Website Profile BPBD
+    url: http://bpbd.tasikmalayakota.go.id
+  - name: Website Profile BPKAD
+    url: http://bpkad.tasikmalayakota.go.id
+  - name: Website Profile Bapenda
+    url: http://bpprd.tasikmalayakota.go.id
+  - name: Suresman
+    url: https://suresman.tasikmalayakota.go.id
 
 status-website:
   cname: check.tasikmalayakota.go.id
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime Website
   introTitle: "**Uptime** Kota Tasikmalaya."
   introMessage: This is a monitoring website status page that uses **real-time** data.
   navbar:
-    # - title: Status
-    #   href: /
+    - title: Status
+      href: /
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
 
