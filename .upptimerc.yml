@@ -3,7 +3,7 @@ repo: uptime
 
 sites:
   - name: Tasikmalaya Kota
-    url: https://tasikmalayakota.go.id.com
+    url: https://tasikmalayakota.go.id
   - name: Portal
     url: https://portal.tasikmalayakota.go.id
   - name: Diskominfo
