@@ -4,19 +4,19 @@
     "url": "https://tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/tasikmalayakota.go.id",
     "slug": "tasikmalaya-kota",
-    "status": "up",
-    "uptime": "61.89%",
-    "uptimeDay": "61.89%",
-    "uptimeWeek": "61.89%",
-    "uptimeMonth": "61.89%",
-    "uptimeYear": "61.89%",
+    "status": "down",
+    "uptime": "61.24%",
+    "uptimeDay": "61.24%",
+    "uptimeWeek": "61.24%",
+    "uptimeMonth": "61.24%",
+    "uptimeYear": "61.24%",
     "time": 1028,
     "timeDay": 1028,
     "timeWeek": 1028,
     "timeMonth": 1028,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-08-24": 330
+      "2022-08-24": 346
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://portal.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/portal.tasikmalayakota.go.id",
     "slug": "portal",
-    "status": "up",
-    "uptime": "70.04%",
-    "uptimeDay": "70.04%",
-    "uptimeWeek": "70.04%",
-    "uptimeMonth": "70.04%",
-    "uptimeYear": "70.04%",
+    "status": "down",
+    "uptime": "69.21%",
+    "uptimeDay": "69.21%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "69.21%",
+    "uptimeYear": "69.21%",
     "time": 1512,
     "timeDay": 1512,
     "timeWeek": 1512,
     "timeMonth": 1512,
     "timeYear": 1512,
     "dailyMinutesDown": {
-      "2022-08-24": 258
+      "2022-08-24": 273
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "http://email.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/email.tasikmalayakota.go.id",
     "slug": "email",
-    "status": "up",
-    "uptime": "67.91%",
-    "uptimeDay": "67.91%",
-    "uptimeWeek": "67.91%",
-    "uptimeMonth": "67.91%",
-    "uptimeYear": "67.91%",
+    "status": "down",
+    "uptime": "66.76%",
+    "uptimeDay": "66.76%",
+    "uptimeWeek": "66.76%",
+    "uptimeMonth": "66.76%",
+    "uptimeYear": "66.76%",
     "time": 1682,
     "timeDay": 1682,
     "timeWeek": 1682,
     "timeMonth": 1682,
     "timeYear": 1682,
     "dailyMinutesDown": {
-      "2022-08-24": 168
+      "2022-08-24": 183
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://suresman.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/suresman.tasikmalayakota.go.id",
     "slug": "suresman",
-    "status": "up",
-    "uptime": "68.34%",
-    "uptimeDay": "68.34%",
-    "uptimeWeek": "68.34%",
-    "uptimeMonth": "68.34%",
-    "uptimeYear": "68.34%",
+    "status": "down",
+    "uptime": "67.30%",
+    "uptimeDay": "67.30%",
+    "uptimeWeek": "67.30%",
+    "uptimeMonth": "67.30%",
+    "uptimeYear": "67.30%",
     "time": 1098,
     "timeDay": 1098,
     "timeWeek": 1098,
     "timeMonth": 1098,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2022-08-24": 169
+      "2022-08-24": 183
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "http://new.sipentas.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/new.sipentas.tasikmalayakota.go.id",
     "slug": "sipentas-v-2-perizinan-online",
-    "status": "up",
-    "uptime": "63.76%",
-    "uptimeDay": "63.76%",
-    "uptimeWeek": "63.76%",
-    "uptimeMonth": "63.76%",
-    "uptimeYear": "63.76%",
+    "status": "down",
+    "uptime": "61.27%",
+    "uptimeDay": "61.27%",
+    "uptimeWeek": "61.27%",
+    "uptimeMonth": "61.27%",
+    "uptimeYear": "61.27%",
     "time": 1250,
     "timeDay": 1250,
     "timeWeek": 1250,
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-08-24": 51
+      "2022-08-24": 65
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://diskominfo.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/diskominfo.tasikmalayakota.go.id",
     "slug": "dinas-komunikasi-dan-informatika",
-    "status": "up",
-    "uptime": "64.23%",
-    "uptimeDay": "64.23%",
-    "uptimeWeek": "64.23%",
-    "uptimeMonth": "64.23%",
-    "uptimeYear": "64.23%",
+    "status": "down",
+    "uptime": "61.98%",
+    "uptimeDay": "61.98%",
+    "uptimeWeek": "61.98%",
+    "uptimeMonth": "61.98%",
+    "uptimeYear": "61.98%",
     "time": 5292,
     "timeDay": 5292,
     "timeWeek": 5292,
     "timeMonth": 5292,
     "timeYear": 5292,
     "dailyMinutesDown": {
-      "2022-08-24": 49
+      "2022-08-24": 62
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://beta.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/beta.tasikmalayakota.go.id",
     "slug": "beta",
-    "status": "up",
-    "uptime": "64.80%",
-    "uptimeDay": "64.80%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "64.80%",
-    "uptimeYear": "64.80%",
+    "status": "down",
+    "uptime": "62.78%",
+    "uptimeDay": "62.78%",
+    "uptimeWeek": "62.78%",
+    "uptimeMonth": "62.78%",
+    "uptimeYear": "62.78%",
     "time": 1171,
     "timeDay": 1171,
     "timeWeek": 1171,
     "timeMonth": 1171,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2022-08-24": 49
+      "2022-08-24": 62
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "http://andimas.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/andimas.tasikmalayakota.go.id",
     "slug": "andimas",
-    "status": "up",
-    "uptime": "68.94%",
-    "uptimeDay": "68.94%",
-    "uptimeWeek": "68.94%",
-    "uptimeMonth": "68.94%",
-    "uptimeYear": "68.94%",
+    "status": "down",
+    "uptime": "68.25%",
+    "uptimeDay": "68.25%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "68.25%",
+    "uptimeYear": "68.25%",
     "time": 887,
     "timeDay": 887,
     "timeWeek": 887,
     "timeMonth": 887,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2022-08-24": 167
+      "2022-08-24": 179
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "http://arsipdinamis.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/arsipdinamis.tasikmalayakota.go.id",
     "slug": "arsip-dinamis",
-    "status": "up",
-    "uptime": "69.50%",
-    "uptimeDay": "69.50%",
-    "uptimeWeek": "69.50%",
-    "uptimeMonth": "69.50%",
-    "uptimeYear": "69.50%",
+    "status": "down",
+    "uptime": "68.88%",
+    "uptimeDay": "68.88%",
+    "uptimeWeek": "68.88%",
+    "uptimeMonth": "68.88%",
+    "uptimeYear": "68.88%",
     "time": 804,
     "timeDay": 804,
     "timeWeek": 804,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2022-08-24": 165
+      "2022-08-24": 177
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "http://atcs.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/atcs.tasikmalayakota.go.id",
     "slug": "atcs",
-    "status": "up",
-    "uptime": "70.04%",
-    "uptimeDay": "70.04%",
-    "uptimeWeek": "70.04%",
-    "uptimeMonth": "70.04%",
-    "uptimeYear": "70.04%",
+    "status": "down",
+    "uptime": "69.49%",
+    "uptimeDay": "69.49%",
+    "uptimeWeek": "69.49%",
+    "uptimeMonth": "69.49%",
+    "uptimeYear": "69.49%",
     "time": 1773,
     "timeDay": 1773,
     "timeWeek": 1773,
     "timeMonth": 1773,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2022-08-24": 161
+      "2022-08-24": 172
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "http://ayobelajar.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/ayobelajar.tasikmalayakota.go.id",
     "slug": "ayo-belajar",
-    "status": "up",
-    "uptime": "70.57%",
-    "uptimeDay": "70.57%",
-    "uptimeWeek": "70.57%",
-    "uptimeMonth": "70.57%",
-    "uptimeYear": "70.57%",
+    "status": "down",
+    "uptime": "70.09%",
+    "uptimeDay": "70.09%",
+    "uptimeWeek": "70.09%",
+    "uptimeMonth": "70.09%",
+    "uptimeYear": "70.09%",
     "time": 1928,
     "timeDay": 1928,
     "timeWeek": 1928,
     "timeMonth": 1928,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2022-08-24": 159
+      "2022-08-24": 170
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "http://bappelitbangda.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/bappelitbangda.tasikmalayakota.go.id",
     "slug": "bappelitbangda",
-    "status": "up",
-    "uptime": "67.69%",
-    "uptimeDay": "67.69%",
-    "uptimeWeek": "67.69%",
-    "uptimeMonth": "67.69%",
-    "uptimeYear": "67.69%",
+    "status": "down",
+    "uptime": "66.80%",
+    "uptimeDay": "66.80%",
+    "uptimeWeek": "66.80%",
+    "uptimeMonth": "66.80%",
+    "uptimeYear": "66.80%",
     "time": 4421,
     "timeDay": 4421,
     "timeWeek": 4421,
     "timeMonth": 4421,
     "timeYear": 4421,
     "dailyMinutesDown": {
-      "2022-08-24": 43
+      "2022-08-24": 53
     }
   },
   {
@@ -262,19 +262,19 @@
     "url": "http://bkppd.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/bkppd.tasikmalayakota.go.id",
     "slug": "bkpsdm",
-    "status": "up",
-    "uptime": "68.28%",
-    "uptimeDay": "68.28%",
-    "uptimeWeek": "68.28%",
-    "uptimeMonth": "68.28%",
-    "uptimeYear": "68.28%",
+    "status": "down",
+    "uptime": "67.63%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "67.63%",
+    "uptimeYear": "67.63%",
     "time": 1532,
     "timeDay": 1532,
     "timeWeek": 1532,
     "timeMonth": 1532,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2022-08-24": 43
+      "2022-08-24": 53
     }
   },
   {
@@ -282,19 +282,19 @@
     "url": "http://bpbd.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/bpbd.tasikmalayakota.go.id",
     "slug": "bpbd",
-    "status": "up",
-    "uptime": "68.85%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "68.85%",
-    "uptimeMonth": "68.85%",
-    "uptimeYear": "68.85%",
+    "status": "down",
+    "uptime": "68.44%",
+    "uptimeDay": "68.44%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "68.44%",
+    "uptimeYear": "68.44%",
     "time": 2276,
     "timeDay": 2276,
     "timeWeek": 2276,
     "timeMonth": 2276,
     "timeYear": 2276,
     "dailyMinutesDown": {
-      "2022-08-24": 41
+      "2022-08-24": 50
     }
   },
   {
@@ -302,19 +302,19 @@
     "url": "http://bpkad.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/bpkad.tasikmalayakota.go.id",
     "slug": "bpkad",
-    "status": "up",
-    "uptime": "69.48%",
-    "uptimeDay": "69.48%",
-    "uptimeWeek": "69.48%",
-    "uptimeMonth": "69.48%",
-    "uptimeYear": "69.48%",
+    "status": "down",
+    "uptime": "69.29%",
+    "uptimeDay": "69.29%",
+    "uptimeWeek": "69.29%",
+    "uptimeMonth": "69.29%",
+    "uptimeYear": "69.29%",
     "time": 878,
     "timeDay": 878,
     "timeWeek": 878,
     "timeMonth": 878,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2022-08-24": 41
+      "2022-08-24": 49
     }
   },
   {
@@ -322,19 +322,19 @@
     "url": "http://bpprd.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/bpprd.tasikmalayakota.go.id",
     "slug": "bapenda",
-    "status": "up",
-    "uptime": "70.11%",
-    "uptimeDay": "70.11%",
-    "uptimeWeek": "70.11%",
-    "uptimeMonth": "70.11%",
-    "uptimeYear": "70.11%",
+    "status": "down",
+    "uptime": "70.16%",
+    "uptimeDay": "70.16%",
+    "uptimeWeek": "70.16%",
+    "uptimeMonth": "70.16%",
+    "uptimeYear": "70.16%",
     "time": 828,
     "timeDay": 828,
     "timeWeek": 828,
     "timeMonth": 828,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2022-08-24": 39
+      "2022-08-24": 47
     }
   },
   {
@@ -343,11 +343,11 @@
     "icon": "https://favicons.githubusercontent.com/cc.tasikmalayakota.go.id",
     "slug": "command-center",
     "status": "down",
-    "uptime": "28.84%",
-    "uptimeDay": "28.84%",
-    "uptimeWeek": "28.84%",
-    "uptimeMonth": "28.84%",
-    "uptimeYear": "28.84%",
+    "uptime": "32.33%",
+    "uptimeDay": "32.33%",
+    "uptimeWeek": "32.33%",
+    "uptimeMonth": "32.33%",
+    "uptimeYear": "32.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -362,19 +362,19 @@
     "url": "http://csr.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/csr.tasikmalayakota.go.id",
     "slug": "csr",
-    "status": "up",
-    "uptime": "78.45%",
-    "uptimeDay": "78.45%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "78.45%",
-    "uptimeYear": "78.45%",
+    "status": "down",
+    "uptime": "78.24%",
+    "uptimeDay": "78.24%",
+    "uptimeWeek": "78.24%",
+    "uptimeMonth": "78.24%",
+    "uptimeYear": "78.24%",
     "time": 1619,
     "timeDay": 1619,
     "timeWeek": 1619,
     "timeMonth": 1619,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2022-08-24": 113
+      "2022-08-24": 120
     }
   },
   {
@@ -382,19 +382,19 @@
     "url": "http://dekranasda.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dekranasda.tasikmalayakota.go.id",
     "slug": "dekranasda",
-    "status": "up",
-    "uptime": "81.71%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "81.71%",
-    "uptimeYear": "81.71%",
+    "status": "down",
+    "uptime": "81.44%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "81.44%",
+    "uptimeMonth": "81.44%",
+    "uptimeYear": "81.44%",
     "time": 831,
     "timeDay": 831,
     "timeWeek": 831,
     "timeMonth": 831,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2022-08-24": 96
+      "2022-08-24": 102
     }
   },
   {
@@ -402,19 +402,19 @@
     "url": "http://dinasdukcapil.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dinasdukcapil.tasikmalayakota.go.id",
     "slug": "disdukcapil",
-    "status": "up",
-    "uptime": "72.57%",
-    "uptimeDay": "72.57%",
-    "uptimeWeek": "72.57%",
-    "uptimeMonth": "72.57%",
-    "uptimeYear": "72.57%",
+    "status": "down",
+    "uptime": "73.53%",
+    "uptimeDay": "73.53%",
+    "uptimeWeek": "73.53%",
+    "uptimeMonth": "73.53%",
+    "uptimeYear": "73.53%",
     "time": 2537,
     "timeDay": 2537,
     "timeWeek": 2537,
     "timeMonth": 2537,
     "timeYear": 2537,
     "dailyMinutesDown": {
-      "2022-08-24": 36
+      "2022-08-24": 42
     }
   },
   {
@@ -422,19 +422,19 @@
     "url": "http://dinkes.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dinkes.tasikmalayakota.go.id",
     "slug": "dinas-kesehatan",
-    "status": "up",
-    "uptime": "73.23%",
-    "uptimeDay": "73.23%",
-    "uptimeWeek": "73.23%",
-    "uptimeMonth": "73.23%",
-    "uptimeYear": "73.23%",
+    "status": "down",
+    "uptime": "79.58%",
+    "uptimeDay": "79.58%",
+    "uptimeWeek": "79.58%",
+    "uptimeMonth": "79.58%",
+    "uptimeYear": "79.58%",
     "time": 1017,
     "timeDay": 1017,
     "timeWeek": 1017,
     "timeMonth": 1017,
     "timeYear": 1017,
     "dailyMinutesDown": {
-      "2022-08-24": 35
+      "2022-08-24": 32
     }
   },
   {
@@ -442,19 +442,19 @@
     "url": "http://dipusipda.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dipusipda.tasikmalayakota.go.id",
     "slug": "dipusipda",
-    "status": "up",
-    "uptime": "73.86%",
-    "uptimeDay": "73.86%",
-    "uptimeWeek": "73.86%",
-    "uptimeMonth": "73.86%",
-    "uptimeYear": "73.86%",
+    "status": "down",
+    "uptime": "80.15%",
+    "uptimeDay": "80.15%",
+    "uptimeWeek": "80.15%",
+    "uptimeMonth": "80.15%",
+    "uptimeYear": "80.15%",
     "time": 1691,
     "timeDay": 1691,
     "timeWeek": 1691,
     "timeMonth": 1691,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2022-08-24": 34
+      "2022-08-24": 31
     }
   },
   {
@@ -462,19 +462,19 @@
     "url": "http://disdik.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/disdik.tasikmalayakota.go.id",
     "slug": "dinas-pendidikan",
-    "status": "up",
-    "uptime": "74.51%",
-    "uptimeDay": "74.51%",
-    "uptimeWeek": "74.51%",
-    "uptimeMonth": "74.51%",
-    "uptimeYear": "74.51%",
+    "status": "down",
+    "uptime": "80.75%",
+    "uptimeDay": "80.75%",
+    "uptimeWeek": "80.75%",
+    "uptimeMonth": "80.75%",
+    "uptimeYear": "80.75%",
     "time": 1310,
     "timeDay": 1310,
     "timeWeek": 1310,
     "timeMonth": 1310,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2022-08-24": 33
+      "2022-08-24": 30
     }
   },
   {
@@ -482,19 +482,19 @@
     "url": "http://dishub.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dishub.tasikmalayakota.go.id",
     "slug": "dinas-perhubungan",
-    "status": "up",
-    "uptime": "75.17%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "75.17%",
-    "uptimeMonth": "75.17%",
-    "uptimeYear": "75.17%",
+    "status": "down",
+    "uptime": "81.35%",
+    "uptimeDay": "81.35%",
+    "uptimeWeek": "81.35%",
+    "uptimeMonth": "81.35%",
+    "uptimeYear": "81.35%",
     "time": 1571,
     "timeDay": 1571,
     "timeWeek": 1571,
     "timeMonth": 1571,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2022-08-24": 32
+      "2022-08-24": 29
     }
   },
   {
@@ -502,19 +502,19 @@
     "url": "http://disnaker.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/disnaker.tasikmalayakota.go.id",
     "slug": "dinas-tenaga-kerja",
-    "status": "up",
-    "uptime": "75.84%",
-    "uptimeDay": "75.84%",
-    "uptimeWeek": "75.84%",
-    "uptimeMonth": "75.84%",
-    "uptimeYear": "75.84%",
+    "status": "down",
+    "uptime": "81.95%",
+    "uptimeDay": "81.95%",
+    "uptimeWeek": "81.95%",
+    "uptimeMonth": "81.95%",
+    "uptimeYear": "81.95%",
     "time": 946,
     "timeDay": 946,
     "timeWeek": 946,
     "timeMonth": 946,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2022-08-24": 31
+      "2022-08-24": 28
     }
   },
   {
@@ -522,19 +522,19 @@
     "url": "http://disperawaskim.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/disperawaskim.tasikmalayakota.go.id",
     "slug": "disperawaskim",
-    "status": "up",
-    "uptime": "76.51%",
-    "uptimeDay": "76.51%",
-    "uptimeWeek": "76.51%",
-    "uptimeMonth": "76.51%",
-    "uptimeYear": "76.51%",
+    "status": "down",
+    "uptime": "82.56%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "82.56%",
+    "uptimeMonth": "82.56%",
+    "uptimeYear": "82.56%",
     "time": 1506,
     "timeDay": 1506,
     "timeWeek": 1506,
     "timeMonth": 1506,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2022-08-24": 30
+      "2022-08-24": 27
     }
   },
   {
@@ -542,19 +542,19 @@
     "url": "http://disporabudpar.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/disporabudpar.tasikmalayakota.go.id",
     "slug": "disporabudpar",
-    "status": "up",
-    "uptime": "77.02%",
-    "uptimeDay": "77.02%",
-    "uptimeWeek": "77.02%",
-    "uptimeMonth": "77.02%",
-    "uptimeYear": "77.02%",
+    "status": "down",
+    "uptime": "83.05%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "83.05%",
+    "uptimeMonth": "83.05%",
+    "uptimeYear": "83.05%",
     "time": 7170,
     "timeDay": 7170,
     "timeWeek": 7170,
     "timeMonth": 7170,
     "timeYear": 7170,
     "dailyMinutesDown": {
-      "2022-08-24": 29
+      "2022-08-24": 26
     }
   },
   {
@@ -562,19 +562,19 @@
     "url": "http://disposisi.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/disposisi.tasikmalayakota.go.id",
     "slug": "aplikasi-manajemen-surat",
-    "status": "up",
-    "uptime": "80.37%",
-    "uptimeDay": "80.37%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "80.37%",
-    "uptimeYear": "80.37%",
+    "status": "down",
+    "uptime": "81.90%",
+    "uptimeDay": "81.90%",
+    "uptimeWeek": "81.90%",
+    "uptimeMonth": "81.90%",
+    "uptimeYear": "81.90%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-08-24": 102
+      "2022-08-24": 99
     }
   },
   {
@@ -582,19 +582,19 @@
     "url": "http://dpmptsp.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/dpmptsp.tasikmalayakota.go.id",
     "slug": "dpmptsp",
-    "status": "up",
-    "uptime": "78.42%",
-    "uptimeDay": "78.42%",
-    "uptimeWeek": "78.42%",
-    "uptimeMonth": "78.42%",
-    "uptimeYear": "78.42%",
+    "status": "down",
+    "uptime": "84.29%",
+    "uptimeDay": "84.29%",
+    "uptimeWeek": "84.29%",
+    "uptimeMonth": "84.29%",
+    "uptimeYear": "84.29%",
     "time": 653,
     "timeDay": 653,
     "timeWeek": 653,
     "timeMonth": 653,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-08-24": 27
+      "2022-08-24": 24
     }
   },
   {
@@ -602,19 +602,19 @@
     "url": "http://ekinerja.tasikmalayakota.go.id",
     "icon": "https://favicons.githubusercontent.com/ekinerja.tasikmalayakota.go.id",
     "slug": "e-kinerja",
-    "status": "up",
-    "uptime": "81.12%",
-    "uptimeDay": "81.12%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "81.12%",
-    "uptimeYear": "81.12%",
+    "status": "down",
+    "uptime": "82.63%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "82.63%",
+    "uptimeMonth": "82.63%",
+    "uptimeYear": "82.63%",
     "time": 688,
     "timeDay": 688,
     "timeWeek": 688,
     "timeMonth": 688,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2022-08-24": 98
+      "2022-08-24": 95
     }
   }
 ]
