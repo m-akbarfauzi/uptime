@@ -6,6 +6,10 @@ sites:
     url: https://tasikmalayakota.go.id
   - name: Portal
     url: https://portal.tasikmalayakota.go.id
+  - name: Email
+    url: http://email.tasikmalayakota.go.id
+  - name: Suresman
+    url: https://suresman.tasikmalayakota.go.id
   - name: Diskominfo
     url: https://diskominfo.tasikmalayakota.go.id
   - name: SmartKelurahan
@@ -30,8 +34,34 @@ sites:
     url: http://bpkad.tasikmalayakota.go.id
   - name: Website Profile Bapenda
     url: http://bpprd.tasikmalayakota.go.id
-  - name: Suresman
-    url: https://suresman.tasikmalayakota.go.id
+  - name: Command Center
+    url: http://cc.tasikmalayakota.go.id
+  - name: CSR
+    url: http://csr.tasikmalayakota.go.id
+  - name: Dekranasda
+    url: http://dekranasda.tasikmalayakota.go.id
+  - name: Website Profile Disdukcapil
+    url: http://dinasdukcapil.tasikmalayakota.go.id
+  - name: Website Profile
+    url: http://dinkes.tasikmalayakota.go.id
+  - name: Website Profile Dipusipda
+    url: http://dipusipda.tasikmalayakota.go.id
+  - name: Website Profile Dinas Pendidikan
+    url: http://disdik.tasikmalayakota.go.id
+  - name: Website Profile Dinas Perhubungan
+    url: http://dishub.tasikmalayakota.go.id
+  - name: Website Profile Dinas Tenaga Kerja
+    url: http://disnaker.tasikmalayakota.go.id
+  - name: Website Profile Disperawaskim
+    url: http://disperawaskim.tasikmalayakota.go.id
+  - name: Website Profile Disporabudpar
+    url: http://disporabudpar.tasikmalayakota.go.id
+  - name: Aplikasi Manajemen Surat
+    url: http://disposisi.tasikmalayakota.go.id
+  - name: Website Profile DPMPTSP
+    url: http://dpmptsp.tasikmalayakota.go.id
+  - name: E-Kinerja
+    url: http://ekinerja.tasikmalayakota.go.id
 
 status-website:
   cname: check.tasikmalayakota.go.id
