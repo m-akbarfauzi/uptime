@@ -1,7 +1,7 @@
 url: http://csr.tasikmalayakota.go.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-08-26T09:04:08.322Z
+status: up
+code: 200
+responseTime: 1466
+lastUpdated: 2022-08-26T09:31:09.828Z
 startTime: Wed Aug 24 2022 06:59:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
