@@ -1,7 +1,7 @@
 url: http://new.sipentas.tasikmalayakota.go.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-08T20:25:47.913Z
+status: up
+code: 200
+responseTime: 1463
+lastUpdated: 2022-09-08T21:08:07.964Z
 startTime: Wed Aug 24 2022 13:22:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
